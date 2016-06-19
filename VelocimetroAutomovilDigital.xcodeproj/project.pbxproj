@@ -22,6 +22,7 @@
 		04F0AD001D16366300C54B66 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04F0AD031D16366300C54B66 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04F0AD051D16366300C54B66 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04F0AD0B1D1636A400C54B66 /* velocimetroDigital.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = velocimetroDigital.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				04F0AD001D16366300C54B66 /* Assets.xcassets */,
 				04F0AD021D16366300C54B66 /* LaunchScreen.storyboard */,
 				04F0AD051D16366300C54B66 /* Info.plist */,
+				04F0AD0B1D1636A400C54B66 /* velocimetroDigital.playground */,
 			);
 			path = VelocimetroAutomovilDigital;
 			sourceTree = "<group>";
